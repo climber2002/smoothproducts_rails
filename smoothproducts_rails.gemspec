@@ -15,6 +15,6 @@ Gem::Specification.new do |s|
   s.homepage    = "https://github.com/calve/smoothproducts_rails"
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
 
-  s.add_dependency "rails", "~> 4.2.0"
-  s.add_dependency "railties", "~> 4.2.0"
+  s.add_dependency "rails", "~> 5.0.0"
+  s.add_dependency "railties", "~> 5.0.0"
 end
